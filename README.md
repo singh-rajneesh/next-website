@@ -1,5 +1,9 @@
-## Next.js App Router Course - Starter
+## Template website to build any complext next project
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This is the website template for the Next.js App. It contains the basic code to build application.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Run following to run application
+
+npm install -g pnpm
+
+npx create-next-app@latest nextjs-dashboard --example "https://github.com/singh-rajneesh/next-website/tree/master" --use-pnpm
